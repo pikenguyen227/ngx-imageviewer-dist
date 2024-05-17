@@ -21,7 +21,7 @@
     "@angular/core": "^12.2.0"
   },
   "optionalDependencies": {
-    "pdfjs-dist": "~2.10.377"
+    "pdfjs-dist": "3.0.279"
   },
   "main": "bundles/emazv72-ngx-imageviewer.umd.js",
   "module": "fesm2015/emazv72-ngx-imageviewer.js",
